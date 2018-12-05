@@ -1,1 +1,4 @@
-// add solution here
+var emptyArray = []
+function theBeatlesPlay(arrayOfM, arrayOfI) {
+  
+}
